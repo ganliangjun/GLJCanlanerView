@@ -1,0 +1,16 @@
+PODS:
+  - GLJCanlanderView (0.1.0)
+
+DEPENDENCIES:
+  - GLJCanlanderView (from `../`)
+
+EXTERNAL SOURCES:
+  GLJCanlanderView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GLJCanlanderView: e250adf1a20463ab9f73d1099b1dd6eeebb43e38
+
+PODFILE CHECKSUM: 539f2929266ef208dd71386112dc1de5e93e72a0
+
+COCOAPODS: 1.2.0
