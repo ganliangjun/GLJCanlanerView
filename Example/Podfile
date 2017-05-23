@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GLJCanlanderView_Example' do
+  pod 'GLJCanlanderView', :path => '../'
+
+  target 'GLJCanlanderView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
