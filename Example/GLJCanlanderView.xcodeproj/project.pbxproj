@@ -23,7 +23,20 @@
 		6003F5BC195388D20070C39A /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5BB195388D20070C39A /* Tests.m */; };
 		71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71719F9D1E33DC2100824A3D /* LaunchScreen.storyboard */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
-		FBA092731EE69C7D009BE63B /* GLJCanlanderView in Resources */ = {isa = PBXBuildFile; fileRef = FBA092721EE69C7D009BE63B /* GLJCanlanderView */; };
+		FBA092871EE6A758009BE63B /* GLJCalendarView.h in Headers */ = {isa = PBXBuildFile; fileRef = FBA092761EE6A758009BE63B /* GLJCalendarView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FBA092881EE6A758009BE63B /* GLJCalendarView.m in Sources */ = {isa = PBXBuildFile; fileRef = FBA092771EE6A758009BE63B /* GLJCalendarView.m */; };
+		FBA092891EE6A758009BE63B /* GLJCalendarDayModel.h in Headers */ = {isa = PBXBuildFile; fileRef = FBA092791EE6A758009BE63B /* GLJCalendarDayModel.h */; };
+		FBA0928A1EE6A758009BE63B /* GLJCalendarDayModel.m in Sources */ = {isa = PBXBuildFile; fileRef = FBA0927A1EE6A758009BE63B /* GLJCalendarDayModel.m */; };
+		FBA0928B1EE6A758009BE63B /* GLJCalendarMonthModel.h in Headers */ = {isa = PBXBuildFile; fileRef = FBA0927B1EE6A758009BE63B /* GLJCalendarMonthModel.h */; };
+		FBA0928C1EE6A758009BE63B /* GLJCalendarMonthModel.m in Sources */ = {isa = PBXBuildFile; fileRef = FBA0927C1EE6A758009BE63B /* GLJCalendarMonthModel.m */; };
+		FBA0928D1EE6A758009BE63B /* GLJCalendarHandler.h in Headers */ = {isa = PBXBuildFile; fileRef = FBA0927E1EE6A758009BE63B /* GLJCalendarHandler.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FBA0928E1EE6A758009BE63B /* GLJCalendarHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = FBA0927F1EE6A758009BE63B /* GLJCalendarHandler.m */; };
+		FBA0928F1EE6A758009BE63B /* GLJCalendarDayView.h in Headers */ = {isa = PBXBuildFile; fileRef = FBA092811EE6A758009BE63B /* GLJCalendarDayView.h */; };
+		FBA092901EE6A758009BE63B /* GLJCalendarDayView.m in Sources */ = {isa = PBXBuildFile; fileRef = FBA092821EE6A758009BE63B /* GLJCalendarDayView.m */; };
+		FBA092911EE6A758009BE63B /* GLJCalendarMonthCell.h in Headers */ = {isa = PBXBuildFile; fileRef = FBA092831EE6A758009BE63B /* GLJCalendarMonthCell.h */; };
+		FBA092921EE6A758009BE63B /* GLJCalendarMonthCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FBA092841EE6A758009BE63B /* GLJCalendarMonthCell.m */; };
+		FBA092931EE6A758009BE63B /* GLJCalendarMonthView.h in Headers */ = {isa = PBXBuildFile; fileRef = FBA092851EE6A758009BE63B /* GLJCalendarMonthView.h */; };
+		FBA092941EE6A758009BE63B /* GLJCalendarMonthView.m in Sources */ = {isa = PBXBuildFile; fileRef = FBA092861EE6A758009BE63B /* GLJCalendarMonthView.m */; };
 		FFFBF3D307EA69A9A889D952 /* Pods_GLJCanlanderView_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36AD9431A10DCE16B6A4AF3F /* Pods_GLJCanlanderView_Tests.framework */; };
 /* End PBXBuildFile section */
 
@@ -70,7 +83,20 @@
 		C5401EE274B6AC5F45B77C3D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		FBA092541EE69659009BE63B /* GLJCanlanderView_framework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = GLJCanlanderView_framework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBA092571EE69659009BE63B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FBA092721EE69C7D009BE63B /* GLJCanlanderView */ = {isa = PBXFileReference; lastKnownFileType = folder; name = GLJCanlanderView; path = ../../GLJCanlanderView/Classes/GLJCanlanderView; sourceTree = "<group>"; };
+		FBA092761EE6A758009BE63B /* GLJCalendarView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLJCalendarView.h; sourceTree = "<group>"; };
+		FBA092771EE6A758009BE63B /* GLJCalendarView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GLJCalendarView.m; sourceTree = "<group>"; };
+		FBA092791EE6A758009BE63B /* GLJCalendarDayModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLJCalendarDayModel.h; sourceTree = "<group>"; };
+		FBA0927A1EE6A758009BE63B /* GLJCalendarDayModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GLJCalendarDayModel.m; sourceTree = "<group>"; };
+		FBA0927B1EE6A758009BE63B /* GLJCalendarMonthModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLJCalendarMonthModel.h; sourceTree = "<group>"; };
+		FBA0927C1EE6A758009BE63B /* GLJCalendarMonthModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GLJCalendarMonthModel.m; sourceTree = "<group>"; };
+		FBA0927E1EE6A758009BE63B /* GLJCalendarHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLJCalendarHandler.h; sourceTree = "<group>"; };
+		FBA0927F1EE6A758009BE63B /* GLJCalendarHandler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GLJCalendarHandler.m; sourceTree = "<group>"; };
+		FBA092811EE6A758009BE63B /* GLJCalendarDayView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLJCalendarDayView.h; sourceTree = "<group>"; };
+		FBA092821EE6A758009BE63B /* GLJCalendarDayView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GLJCalendarDayView.m; sourceTree = "<group>"; };
+		FBA092831EE6A758009BE63B /* GLJCalendarMonthCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLJCalendarMonthCell.h; sourceTree = "<group>"; };
+		FBA092841EE6A758009BE63B /* GLJCalendarMonthCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GLJCalendarMonthCell.m; sourceTree = "<group>"; };
+		FBA092851EE6A758009BE63B /* GLJCalendarMonthView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLJCalendarMonthView.h; sourceTree = "<group>"; };
+		FBA092861EE6A758009BE63B /* GLJCalendarMonthView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GLJCalendarMonthView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -212,10 +238,56 @@
 		FBA092551EE69659009BE63B /* GLJCanlanderView_framework */ = {
 			isa = PBXGroup;
 			children = (
-				FBA092721EE69C7D009BE63B /* GLJCanlanderView */,
+				FBA092751EE6A758009BE63B /* GLJCanlanderView */,
 				FBA092571EE69659009BE63B /* Info.plist */,
 			);
 			path = GLJCanlanderView_framework;
+			sourceTree = "<group>";
+		};
+		FBA092751EE6A758009BE63B /* GLJCanlanderView */ = {
+			isa = PBXGroup;
+			children = (
+				FBA092761EE6A758009BE63B /* GLJCalendarView.h */,
+				FBA092771EE6A758009BE63B /* GLJCalendarView.m */,
+				FBA092781EE6A758009BE63B /* model */,
+				FBA0927D1EE6A758009BE63B /* tool */,
+				FBA092801EE6A758009BE63B /* view */,
+			);
+			name = GLJCanlanderView;
+			path = ../../GLJCanlanderView/Classes/GLJCanlanderView;
+			sourceTree = "<group>";
+		};
+		FBA092781EE6A758009BE63B /* model */ = {
+			isa = PBXGroup;
+			children = (
+				FBA092791EE6A758009BE63B /* GLJCalendarDayModel.h */,
+				FBA0927A1EE6A758009BE63B /* GLJCalendarDayModel.m */,
+				FBA0927B1EE6A758009BE63B /* GLJCalendarMonthModel.h */,
+				FBA0927C1EE6A758009BE63B /* GLJCalendarMonthModel.m */,
+			);
+			path = model;
+			sourceTree = "<group>";
+		};
+		FBA0927D1EE6A758009BE63B /* tool */ = {
+			isa = PBXGroup;
+			children = (
+				FBA0927E1EE6A758009BE63B /* GLJCalendarHandler.h */,
+				FBA0927F1EE6A758009BE63B /* GLJCalendarHandler.m */,
+			);
+			path = tool;
+			sourceTree = "<group>";
+		};
+		FBA092801EE6A758009BE63B /* view */ = {
+			isa = PBXGroup;
+			children = (
+				FBA092811EE6A758009BE63B /* GLJCalendarDayView.h */,
+				FBA092821EE6A758009BE63B /* GLJCalendarDayView.m */,
+				FBA092831EE6A758009BE63B /* GLJCalendarMonthCell.h */,
+				FBA092841EE6A758009BE63B /* GLJCalendarMonthCell.m */,
+				FBA092851EE6A758009BE63B /* GLJCalendarMonthView.h */,
+				FBA092861EE6A758009BE63B /* GLJCalendarMonthView.m */,
+			);
+			path = view;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -225,6 +297,13 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FBA092871EE6A758009BE63B /* GLJCalendarView.h in Headers */,
+				FBA0928D1EE6A758009BE63B /* GLJCalendarHandler.h in Headers */,
+				FBA092891EE6A758009BE63B /* GLJCalendarDayModel.h in Headers */,
+				FBA0928F1EE6A758009BE63B /* GLJCalendarDayView.h in Headers */,
+				FBA0928B1EE6A758009BE63B /* GLJCalendarMonthModel.h in Headers */,
+				FBA092931EE6A758009BE63B /* GLJCalendarMonthView.h in Headers */,
+				FBA092911EE6A758009BE63B /* GLJCalendarMonthCell.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -354,7 +433,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FBA092731EE69C7D009BE63B /* GLJCanlanderView in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -476,6 +554,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FBA092921EE6A758009BE63B /* GLJCalendarMonthCell.m in Sources */,
+				FBA0928E1EE6A758009BE63B /* GLJCalendarHandler.m in Sources */,
+				FBA0928A1EE6A758009BE63B /* GLJCalendarDayModel.m in Sources */,
+				FBA092901EE6A758009BE63B /* GLJCalendarDayView.m in Sources */,
+				FBA092881EE6A758009BE63B /* GLJCalendarView.m in Sources */,
+				FBA092941EE6A758009BE63B /* GLJCalendarMonthView.m in Sources */,
+				FBA0928C1EE6A758009BE63B /* GLJCalendarMonthModel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -690,7 +775,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = GLJCanlanderView_framework/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MTL_ENABLE_DEBUG_INFO = YES;
@@ -720,7 +805,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = GLJCanlanderView_framework/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MTL_ENABLE_DEBUG_INFO = NO;
