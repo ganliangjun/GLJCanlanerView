@@ -1,6 +1,0 @@
-framework module GLJCanlanderView {
-  umbrella header "GLJCanlanderView-umbrella.h"
-
-  export *
-  module * { export * }
-}

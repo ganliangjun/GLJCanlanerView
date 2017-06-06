@@ -1,5 +1,5 @@
 PODS:
-  - GLJCanlanderView (0.0.1)
+  - GLJCanlanderView (0.0.2)
 
 DEPENDENCIES:
   - GLJCanlanderView (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  GLJCanlanderView: 651c7faf97eafdee0c8f2da0d71b13c0a0057cb2
+  GLJCanlanderView: f5b36bb0c3c5d812adf2269f8a2f98439077fe27
 
 PODFILE CHECKSUM: 539f2929266ef208dd71386112dc1de5e93e72a0
 

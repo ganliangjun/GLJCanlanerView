@@ -1,6 +1,6 @@
 {
   "name": "GLJCanlanderView",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "GLJCanlanderView.",
   "description": "TODO: GLJCanlanderView是一个自定义日历视图",
   "homepage": "https://github.com/ganliangjun/GLJCanlanerView",
@@ -13,11 +13,11 @@
   },
   "source": {
     "git": "https://github.com/ganliangjun/GLJCanlanerView.git",
-    "tag": "0.0.1"
+    "tag": "0.0.2"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "GLJCanlanderView/Classes/**/*",
-  "vendored_frameworks": "GLJCanlanderView/Example/Products/Release-iphonesimulator/GLJCanlanderView_framework.framework"
+  "source_files": "GLJCanlanderView/Classes/GLJCanlanderView/*.h",
+  "vendored_frameworks": "GLJCanlanderView/Products/GLJCanlanderView_framework.framework"
 }
