@@ -31,7 +31,7 @@ TODO: GLJCanlanderView是一个自定义日历视图
   s.ios.deployment_target = '8.0'
 
 #s.source_files = 'GLJCanlanderView/Classes/**/*'
-    s.source_files = 'GLJCanlanderView/Classes/GLJCanlanderView/*.h', 'GLJCanlanderView/Classes/GLJCanlanderView/tool/*.h'
+    s.source_files = 'GLJCanlanderView/Classes/**/*.h'
     s.vendored_frameworks = 'GLJCanlanderView/Products/GLJCanlanderView_framework.framework'
 
 

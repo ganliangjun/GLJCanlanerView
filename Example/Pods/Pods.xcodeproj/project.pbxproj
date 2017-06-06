@@ -16,7 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		01324B3274463304898936A38E1E97D4 /* GLJCalendarView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GLJCalendarView.h; sourceTree = "<group>"; };
 		0684E2AC3BE96BDF03E2C3E61E948222 /* Pods-GLJCanlanderView_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-GLJCanlanderView_Tests.modulemap"; sourceTree = "<group>"; };
 		0A0D609128F92C6D6926A15FB9C5999D /* Pods-GLJCanlanderView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-GLJCanlanderView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		0F4BD901F1DA50FE0B6B432B4789740E /* Pods-GLJCanlanderView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-GLJCanlanderView_Example-umbrella.h"; sourceTree = "<group>"; };
@@ -25,24 +24,30 @@
 		1A83652737B1BB1305D9BE64B01637FB /* Pods-GLJCanlanderView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GLJCanlanderView_Example.release.xcconfig"; sourceTree = "<group>"; };
 		215F3A0631A4DF3B3B838F92D097CA43 /* Pods_GLJCanlanderView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_GLJCanlanderView_Tests.framework; path = "Pods-GLJCanlanderView_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2172D4F5EC4FA76B5EB53AB53764329E /* Pods-GLJCanlanderView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GLJCanlanderView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		2A1182E6016635ECE8A9D103BED37141 /* GLJCalendarHandler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GLJCalendarHandler.h; sourceTree = "<group>"; };
 		2FD3FF9D38B81AD183BFA2A7ACF144BE /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		388A408EFCC5125B933ED0E1738248C7 /* Pods-GLJCanlanderView_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-GLJCanlanderView_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		3E9FC3C0C649765E55126BF21D1C668B /* Pods-GLJCanlanderView_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GLJCanlanderView_Example-resources.sh"; sourceTree = "<group>"; };
-		41EB4B4104F4EB56E6262706BC7AF83C /* GLJCalendarHandler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GLJCalendarHandler.h; sourceTree = "<group>"; };
+		47476B4EE43E6AF5C9A8CF63F5ED731D /* GLJCalendarMonthView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GLJCalendarMonthView.h; sourceTree = "<group>"; };
 		4D50DEC0B1ED1B9715F1F7DFE8639BF7 /* Pods-GLJCanlanderView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-GLJCanlanderView_Example.modulemap"; sourceTree = "<group>"; };
 		5096EFF8EC5334A60366A11EFAF8F096 /* GLJCanlanderView_framework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLJCanlanderView_framework.framework; path = GLJCanlanderView/Products/GLJCanlanderView_framework.framework; sourceTree = "<group>"; };
 		582506D6FE722ADBA06C6A7E16633934 /* Pods-GLJCanlanderView_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GLJCanlanderView_Example-frameworks.sh"; sourceTree = "<group>"; };
 		58A43BA6E0C2D5190D0807998EE17A82 /* Pods-GLJCanlanderView_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-GLJCanlanderView_Tests-dummy.m"; sourceTree = "<group>"; };
 		5E4A6F16FF287B92DDF74D158916990C /* Pods-GLJCanlanderView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GLJCanlanderView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		60BC6604A43B573B9275C5F1973FD6FD /* Pods-GLJCanlanderView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-GLJCanlanderView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		6E5B1C88C309298235B348F53AA45009 /* GLJCalendarDayView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GLJCalendarDayView.h; sourceTree = "<group>"; };
 		90199DA1F239850C434D300AA5F093DE /* Pods-GLJCanlanderView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-GLJCanlanderView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		903649B86F8F26E6DE8E14C84078755F /* Pods-GLJCanlanderView_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-GLJCanlanderView_Tests-umbrella.h"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9EB7C1AB0A24DB1C0C4C1FFEC7EFE71D /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A4EED44225763B7695D467632B873BD1 /* GLJCalendarMonthCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GLJCalendarMonthCell.h; sourceTree = "<group>"; };
 		B517A9BE87A125A0BF40A7B261794E50 /* Pods-GLJCanlanderView_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GLJCanlanderView_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		C61F70D12761E28D8DC543F21E1668F5 /* GLJCalendarMonthModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GLJCalendarMonthModel.h; sourceTree = "<group>"; };
 		CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		EAB891C6196993AE5ECF8A58ECDBEC45 /* GLJCalendarView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GLJCalendarView.h; sourceTree = "<group>"; };
 		F218B0EBF102C1A824B84D22A9BDD8AF /* Pods-GLJCanlanderView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-GLJCanlanderView_Example-dummy.m"; sourceTree = "<group>"; };
 		F56C89CBEF8401F6CE43D9A0C8086E5A /* Pods-GLJCanlanderView_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GLJCanlanderView_Tests-resources.sh"; sourceTree = "<group>"; };
+		F7C23F828DFC751A47808DD95A0C4B8D /* GLJCalendarDayModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GLJCalendarDayModel.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,13 +70,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		29816B7B32600BA7556105F4A71318DC /* Classes */ = {
+		09D759997A0F7929EBD10A00F61251C0 /* tool */ = {
 			isa = PBXGroup;
 			children = (
-				2F774D9A2627947935C1586079B17777 /* GLJCanlanderView */,
+				2A1182E6016635ECE8A9D103BED37141 /* GLJCalendarHandler.h */,
 			);
-			name = Classes;
-			path = Classes;
+			name = tool;
+			path = tool;
 			sourceTree = "<group>";
 		};
 		2C67751F607B0549BFD7B21A8C837B32 /* Targets Support Files */ = {
@@ -81,16 +86,6 @@
 				A9BF1877E6D528FA72489799399715A9 /* Pods-GLJCanlanderView_Tests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		2F774D9A2627947935C1586079B17777 /* GLJCanlanderView */ = {
-			isa = PBXGroup;
-			children = (
-				01324B3274463304898936A38E1E97D4 /* GLJCalendarView.h */,
-				8CE8911993D07895F452AA94BE807E11 /* tool */,
-			);
-			name = GLJCanlanderView;
-			path = GLJCanlanderView;
 			sourceTree = "<group>";
 		};
 		353DF3B90D344BE621E6562405314945 /* Development Pods */ = {
@@ -122,7 +117,7 @@
 		55599D13D6928C50B7D64DC7DBF8DB14 /* GLJCanlanderView */ = {
 			isa = PBXGroup;
 			children = (
-				29816B7B32600BA7556105F4A71318DC /* Classes */,
+				EABD307A8EF9530F9824F3D37C314E67 /* Classes */,
 			);
 			name = GLJCanlanderView;
 			path = GLJCanlanderView;
@@ -174,15 +169,6 @@
 			);
 			sourceTree = "<group>";
 		};
-		8CE8911993D07895F452AA94BE807E11 /* tool */ = {
-			isa = PBXGroup;
-			children = (
-				41EB4B4104F4EB56E6262706BC7AF83C /* GLJCalendarHandler.h */,
-			);
-			name = tool;
-			path = tool;
-			sourceTree = "<group>";
-		};
 		A9BF1877E6D528FA72489799399715A9 /* Pods-GLJCanlanderView_Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -201,12 +187,54 @@
 			path = "Target Support Files/Pods-GLJCanlanderView_Tests";
 			sourceTree = "<group>";
 		};
+		B20DC1CBB8344794EF08B5FFC4CA48F8 /* GLJCanlanderView */ = {
+			isa = PBXGroup;
+			children = (
+				EAB891C6196993AE5ECF8A58ECDBEC45 /* GLJCalendarView.h */,
+				EAF3C95E89D3CEA1DAA398E9A7564297 /* model */,
+				09D759997A0F7929EBD10A00F61251C0 /* tool */,
+				D9D757D57EA67702D53DECDD40E9A522 /* view */,
+			);
+			name = GLJCanlanderView;
+			path = GLJCanlanderView;
+			sourceTree = "<group>";
+		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				7531C8F8DE19F1AA3C8A7AC97A91DC29 /* iOS */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D9D757D57EA67702D53DECDD40E9A522 /* view */ = {
+			isa = PBXGroup;
+			children = (
+				6E5B1C88C309298235B348F53AA45009 /* GLJCalendarDayView.h */,
+				A4EED44225763B7695D467632B873BD1 /* GLJCalendarMonthCell.h */,
+				47476B4EE43E6AF5C9A8CF63F5ED731D /* GLJCalendarMonthView.h */,
+			);
+			name = view;
+			path = view;
+			sourceTree = "<group>";
+		};
+		EABD307A8EF9530F9824F3D37C314E67 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				B20DC1CBB8344794EF08B5FFC4CA48F8 /* GLJCanlanderView */,
+			);
+			name = Classes;
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		EAF3C95E89D3CEA1DAA398E9A7564297 /* model */ = {
+			isa = PBXGroup;
+			children = (
+				F7C23F828DFC751A47808DD95A0C4B8D /* GLJCalendarDayModel.h */,
+				C61F70D12761E28D8DC543F21E1668F5 /* GLJCalendarMonthModel.h */,
+			);
+			name = model;
+			path = model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

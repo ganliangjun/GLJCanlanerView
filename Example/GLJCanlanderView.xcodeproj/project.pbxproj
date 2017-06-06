@@ -25,17 +25,17 @@
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
 		FBA092871EE6A758009BE63B /* GLJCalendarView.h in Headers */ = {isa = PBXBuildFile; fileRef = FBA092761EE6A758009BE63B /* GLJCalendarView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FBA092881EE6A758009BE63B /* GLJCalendarView.m in Sources */ = {isa = PBXBuildFile; fileRef = FBA092771EE6A758009BE63B /* GLJCalendarView.m */; };
-		FBA092891EE6A758009BE63B /* GLJCalendarDayModel.h in Headers */ = {isa = PBXBuildFile; fileRef = FBA092791EE6A758009BE63B /* GLJCalendarDayModel.h */; };
+		FBA092891EE6A758009BE63B /* GLJCalendarDayModel.h in Headers */ = {isa = PBXBuildFile; fileRef = FBA092791EE6A758009BE63B /* GLJCalendarDayModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FBA0928A1EE6A758009BE63B /* GLJCalendarDayModel.m in Sources */ = {isa = PBXBuildFile; fileRef = FBA0927A1EE6A758009BE63B /* GLJCalendarDayModel.m */; };
-		FBA0928B1EE6A758009BE63B /* GLJCalendarMonthModel.h in Headers */ = {isa = PBXBuildFile; fileRef = FBA0927B1EE6A758009BE63B /* GLJCalendarMonthModel.h */; };
+		FBA0928B1EE6A758009BE63B /* GLJCalendarMonthModel.h in Headers */ = {isa = PBXBuildFile; fileRef = FBA0927B1EE6A758009BE63B /* GLJCalendarMonthModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FBA0928C1EE6A758009BE63B /* GLJCalendarMonthModel.m in Sources */ = {isa = PBXBuildFile; fileRef = FBA0927C1EE6A758009BE63B /* GLJCalendarMonthModel.m */; };
 		FBA0928D1EE6A758009BE63B /* GLJCalendarHandler.h in Headers */ = {isa = PBXBuildFile; fileRef = FBA0927E1EE6A758009BE63B /* GLJCalendarHandler.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FBA0928E1EE6A758009BE63B /* GLJCalendarHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = FBA0927F1EE6A758009BE63B /* GLJCalendarHandler.m */; };
-		FBA0928F1EE6A758009BE63B /* GLJCalendarDayView.h in Headers */ = {isa = PBXBuildFile; fileRef = FBA092811EE6A758009BE63B /* GLJCalendarDayView.h */; };
+		FBA0928F1EE6A758009BE63B /* GLJCalendarDayView.h in Headers */ = {isa = PBXBuildFile; fileRef = FBA092811EE6A758009BE63B /* GLJCalendarDayView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FBA092901EE6A758009BE63B /* GLJCalendarDayView.m in Sources */ = {isa = PBXBuildFile; fileRef = FBA092821EE6A758009BE63B /* GLJCalendarDayView.m */; };
-		FBA092911EE6A758009BE63B /* GLJCalendarMonthCell.h in Headers */ = {isa = PBXBuildFile; fileRef = FBA092831EE6A758009BE63B /* GLJCalendarMonthCell.h */; };
+		FBA092911EE6A758009BE63B /* GLJCalendarMonthCell.h in Headers */ = {isa = PBXBuildFile; fileRef = FBA092831EE6A758009BE63B /* GLJCalendarMonthCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FBA092921EE6A758009BE63B /* GLJCalendarMonthCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FBA092841EE6A758009BE63B /* GLJCalendarMonthCell.m */; };
-		FBA092931EE6A758009BE63B /* GLJCalendarMonthView.h in Headers */ = {isa = PBXBuildFile; fileRef = FBA092851EE6A758009BE63B /* GLJCalendarMonthView.h */; };
+		FBA092931EE6A758009BE63B /* GLJCalendarMonthView.h in Headers */ = {isa = PBXBuildFile; fileRef = FBA092851EE6A758009BE63B /* GLJCalendarMonthView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FBA092941EE6A758009BE63B /* GLJCalendarMonthView.m in Sources */ = {isa = PBXBuildFile; fileRef = FBA092861EE6A758009BE63B /* GLJCalendarMonthView.m */; };
 		FFFBF3D307EA69A9A889D952 /* Pods_GLJCanlanderView_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36AD9431A10DCE16B6A4AF3F /* Pods_GLJCanlanderView_Tests.framework */; };
 /* End PBXBuildFile section */

@@ -18,9 +18,6 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": [
-    "GLJCanlanderView/Classes/GLJCanlanderView/*.h",
-    "GLJCanlanderView/Classes/GLJCanlanderView/tool/*.h"
-  ],
+  "source_files": "GLJCanlanderView/Classes/**/*.h",
   "vendored_frameworks": "GLJCanlanderView/Products/GLJCanlanderView_framework.framework"
 }
