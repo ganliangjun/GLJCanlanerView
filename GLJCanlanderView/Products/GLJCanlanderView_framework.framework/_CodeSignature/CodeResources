@@ -4,9 +4,29 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/GLJCalendarDayModel.h</key>
+		<data>
+		E2WBMA3f5Xrj56sCurF48tlRO3I=
+		</data>
+		<key>Headers/GLJCalendarDayView.h</key>
+		<data>
+		ZCYBgEla5dhw/JDHZ3oTIf5Tpu4=
+		</data>
 		<key>Headers/GLJCalendarHandler.h</key>
 		<data>
 		2x6ry+Lnciv62UDtPXAlLo2ntU0=
+		</data>
+		<key>Headers/GLJCalendarMonthCell.h</key>
+		<data>
+		Y2b5gS05XJ9iEZ0VxuJRea7yprY=
+		</data>
+		<key>Headers/GLJCalendarMonthModel.h</key>
+		<data>
+		n4BjzpJXh3Xevct6D49Fgb2BgAw=
+		</data>
+		<key>Headers/GLJCalendarMonthView.h</key>
+		<data>
+		JhwkCABoETCNHKRJL+duNx52D0I=
 		</data>
 		<key>Headers/GLJCalendarView.h</key>
 		<data>
@@ -19,6 +39,28 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/GLJCalendarDayModel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E2WBMA3f5Xrj56sCurF48tlRO3I=
+			</data>
+			<key>hash2</key>
+			<data>
+			gqb128YM0AYhHR83Tvqe+Hrtwo254Qr5j+hc0sRd8Hg=
+			</data>
+		</dict>
+		<key>Headers/GLJCalendarDayView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZCYBgEla5dhw/JDHZ3oTIf5Tpu4=
+			</data>
+			<key>hash2</key>
+			<data>
+			ESFl5jjNB5P6//bZ0W26/htw8RDCMUNJyi8eQAgETq4=
+			</data>
+		</dict>
 		<key>Headers/GLJCalendarHandler.h</key>
 		<dict>
 			<key>hash</key>
@@ -28,6 +70,39 @@
 			<key>hash2</key>
 			<data>
 			yeGhkEay9mI4KTrYCKrLYbLlY8wdJXCo0pGfHMSM5Q8=
+			</data>
+		</dict>
+		<key>Headers/GLJCalendarMonthCell.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Y2b5gS05XJ9iEZ0VxuJRea7yprY=
+			</data>
+			<key>hash2</key>
+			<data>
+			6sYY3V6WtHXBnBrlt8xkUvfUgIgh1q7bx7Xkq/3dLNQ=
+			</data>
+		</dict>
+		<key>Headers/GLJCalendarMonthModel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n4BjzpJXh3Xevct6D49Fgb2BgAw=
+			</data>
+			<key>hash2</key>
+			<data>
+			qFFhZD9RkSElrL2v00Cu5drqHajmjThJeQ+kH717YX4=
+			</data>
+		</dict>
+		<key>Headers/GLJCalendarMonthView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JhwkCABoETCNHKRJL+duNx52D0I=
+			</data>
+			<key>hash2</key>
+			<data>
+			YxhpZaqdXUi52PI4fxhXK45dipWIrXAkv1jRYNbgLDI=
 			</data>
 		</dict>
 		<key>Headers/GLJCalendarView.h</key>

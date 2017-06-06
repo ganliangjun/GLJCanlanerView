@@ -1,6 +1,6 @@
 {
   "name": "GLJCanlanderView",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "GLJCanlanderView.",
   "description": "TODO: GLJCanlanderView是一个自定义日历视图",
   "homepage": "https://github.com/ganliangjun/GLJCanlanerView",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/ganliangjun/GLJCanlanerView.git",
-    "tag": "0.0.2"
+    "tag": "0.0.3"
   },
   "platforms": {
     "ios": "8.0"
