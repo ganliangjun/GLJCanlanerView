@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GLJCanlanderView'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'GLJCanlanderView.'
 
 # This description is used to generate tags and improve search results.
@@ -30,8 +30,11 @@ TODO: GLJCanlanderView是一个自定义日历视图
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'GLJCanlanderView/Classes/**/*'
-  
+s.source_files = 'GLJCanlanderView/Classes/**/*'
+# s.source_files = 'GLJCanlanderView/Classes/GLJCanlanderView/*.h'
+    s.vendored_frameworks = 'GLJCanlanderView/Example/Products/Release-iphonesimulator/GLJCanlanderView_framework.framework'
+
+
   # s.resource_bundles = {
   #   'GLJCanlanderView' => ['GLJCanlanderView/Assets/*.png']
   # }

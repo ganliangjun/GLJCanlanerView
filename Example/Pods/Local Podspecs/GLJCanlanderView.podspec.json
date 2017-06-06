@@ -1,9 +1,9 @@
 {
   "name": "GLJCanlanderView",
-  "version": "0.1.0",
-  "summary": "A short description of GLJCanlanderView.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/970721775@qq.com/GLJCanlanderView",
+  "version": "0.0.1",
+  "summary": "GLJCanlanderView.",
+  "description": "TODO: GLJCanlanderView是一个自定义日历视图",
+  "homepage": "https://github.com/ganliangjun/GLJCanlanerView",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,12 @@
     "970721775@qq.com": "970721775@qq.com"
   },
   "source": {
-    "git": "https://github.com/970721775@qq.com/GLJCanlanderView.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/ganliangjun/GLJCanlanerView.git",
+    "tag": "0.0.1"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "GLJCanlanderView/Classes/**/*"
+  "source_files": "GLJCanlanderView/Classes/**/*",
+  "vendored_frameworks": "GLJCanlanderView/Example/Products/Release-iphonesimulator/GLJCanlanderView_framework.framework"
 }
